@@ -26,12 +26,12 @@ const useStyles = makeStyles((theme) => ({
 
 const FormLinks = [
   {
-    city: "DELHI NCR",
+    city: "DELHI",
     link: "https://forms.gle/bYRA7CW552H7iUXVA",
   },
   {
     city: "Mumbai/Thane/Navi Mumbai",
-    link: "https://forms.gle/bYRA7CW552H7iUXVA",
+    link: "https://forms.gle/6ghtCFk1nVpWDKt48",
   },
 ];
 
