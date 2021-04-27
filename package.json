@@ -2,7 +2,7 @@
   "name": "covid-sos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bhupalichiplunkar.github.io/covid-sos",
+  "homepage": "http://covid-sos.github.io/covid-requierement-collector",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.4",
