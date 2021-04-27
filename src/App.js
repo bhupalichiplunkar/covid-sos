@@ -33,6 +33,10 @@ const FormLinks = [
     city: "Mumbai/Thane/Navi Mumbai",
     link: "https://forms.gle/6ghtCFk1nVpWDKt48",
   },
+  {
+    city: "Kanpur",
+    link: "https://forms.gle/WYK5spnyAQ5rPjAw9",
+  },
 ];
 
 function App() {
