@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/covid-sos/static/css/main.ada5453e.chunk.css",
-    "main.js": "/covid-sos/static/js/main.5c1f31e3.chunk.js",
-    "main.js.map": "/covid-sos/static/js/main.5c1f31e3.chunk.js.map",
-    "runtime-main.js": "/covid-sos/static/js/runtime-main.d0eb2cd3.js",
-    "runtime-main.js.map": "/covid-sos/static/js/runtime-main.d0eb2cd3.js.map",
-    "static/js/2.959b4520.chunk.js": "/covid-sos/static/js/2.959b4520.chunk.js",
-    "static/js/2.959b4520.chunk.js.map": "/covid-sos/static/js/2.959b4520.chunk.js.map",
-    "static/js/3.ed34d47c.chunk.js": "/covid-sos/static/js/3.ed34d47c.chunk.js",
-    "static/js/3.ed34d47c.chunk.js.map": "/covid-sos/static/js/3.ed34d47c.chunk.js.map",
-    "index.html": "/covid-sos/index.html",
-    "static/css/main.ada5453e.chunk.css.map": "/covid-sos/static/css/main.ada5453e.chunk.css.map",
-    "static/js/2.959b4520.chunk.js.LICENSE.txt": "/covid-sos/static/js/2.959b4520.chunk.js.LICENSE.txt"
+    "main.css": "/covid-requierement-collector/static/css/main.ada5453e.chunk.css",
+    "main.js": "/covid-requierement-collector/static/js/main.5c1f31e3.chunk.js",
+    "main.js.map": "/covid-requierement-collector/static/js/main.5c1f31e3.chunk.js.map",
+    "runtime-main.js": "/covid-requierement-collector/static/js/runtime-main.3672f6c6.js",
+    "runtime-main.js.map": "/covid-requierement-collector/static/js/runtime-main.3672f6c6.js.map",
+    "static/js/2.959b4520.chunk.js": "/covid-requierement-collector/static/js/2.959b4520.chunk.js",
+    "static/js/2.959b4520.chunk.js.map": "/covid-requierement-collector/static/js/2.959b4520.chunk.js.map",
+    "static/js/3.ed34d47c.chunk.js": "/covid-requierement-collector/static/js/3.ed34d47c.chunk.js",
+    "static/js/3.ed34d47c.chunk.js.map": "/covid-requierement-collector/static/js/3.ed34d47c.chunk.js.map",
+    "index.html": "/covid-requierement-collector/index.html",
+    "static/css/main.ada5453e.chunk.css.map": "/covid-requierement-collector/static/css/main.ada5453e.chunk.css.map",
+    "static/js/2.959b4520.chunk.js.LICENSE.txt": "/covid-requierement-collector/static/js/2.959b4520.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0eb2cd3.js",
+    "static/js/runtime-main.3672f6c6.js",
     "static/js/2.959b4520.chunk.js",
     "static/css/main.ada5453e.chunk.css",
     "static/js/main.5c1f31e3.chunk.js"
